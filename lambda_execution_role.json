@@ -5,7 +5,7 @@
       "Action": [
         "logs:CreateLogGroup",
         "logs:CreateLogStream",
-        "logs:PutLogEvents",
+        "logs:PutLogEvents"
       ],
       "Resource": "arn:aws:logs:*:*:*"
     },
